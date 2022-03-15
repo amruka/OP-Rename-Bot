@@ -8,8 +8,8 @@
         "bot"
     ],
     "repository": "https://github.com/amruka/OP-Rename-Bot",
-    "website": "https://abirhasan.wtf",
-    "success_url": "https://t.me/AH_RenameBot",
+    "website": "",
+    "success_url": "",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
